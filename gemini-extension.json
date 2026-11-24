@@ -1,0 +1,10 @@
+{
+  "name": "driglass",
+  "version": "1.0.0",
+  "description": "Sizes, print zones and screens for printing straight on glass bottles and drinking glasses with Driglass, hosted at https://drint.io/driglass/mcp.",
+  "mcpServers": {
+    "driglass": {
+      "httpUrl": "https://drint.io/driglass/mcp"
+    }
+  }
+}

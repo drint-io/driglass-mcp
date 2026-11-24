@@ -1,0 +1,24 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.drint/driglass",
+  "title": "Driglass",
+  "description": "Sizes, print zones and screen counts for printing straight on glass bottles and drinking glasses.",
+  "version": "1.0.0",
+  "icons": [
+    {
+      "src": "https://drint.io/brand/driglass/favicon.svg",
+      "mimeType": "image/svg+xml"
+    }
+  ],
+  "websiteUrl": "https://drint.io/driglass",
+  "repository": {
+    "url": "https://github.com/drint-io/driglass-mcp",
+    "source": "github"
+  },
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://drint.io/driglass/mcp"
+    }
+  ]
+}

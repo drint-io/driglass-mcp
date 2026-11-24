@@ -1,0 +1,18 @@
+{
+  "name": "driglass",
+  "owner": {
+    "name": "Drint",
+    "email": "support@drint.io"
+  },
+  "metadata": {
+    "description": "Driglass glass-print specs for Claude Code"
+  },
+  "plugins": [
+    {
+      "name": "driglass",
+      "source": "./",
+      "description": "Sizes, print zones and screens for printing straight on glass bottles and drinking glasses, from drint.io/driglass/mcp",
+      "category": "design"
+    }
+  ]
+}

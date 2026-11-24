@@ -1,0 +1,28 @@
+{
+  "name": "driglass",
+  "displayName": "Driglass",
+  "version": "1.0.0",
+  "description": "Screen print straight on glass: beer and wine bottles and drinking glasses at real sizes, print zones, the neck unrolled to its arc, screens and the rules for ceramic enamel on glass.",
+  "author": {
+    "name": "Drint",
+    "email": "support@drint.io",
+    "url": "https://drint.io"
+  },
+  "homepage": "https://drint.io/driglass",
+  "repository": "https://github.com/drint-io/driglass-mcp",
+  "license": "MIT",
+  "keywords": [
+    "glass printing",
+    "screen printing",
+    "bottle printing",
+    "applied ceramic label",
+    "acl",
+    "glass bottle",
+    "beer bottle",
+    "wine bottle",
+    "packaging",
+    "mcp"
+  ],
+  "logo": "logo.png",
+  "mcpServers": ".mcp.json"
+}

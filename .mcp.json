@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "driglass": {
+      "type": "http",
+      "url": "https://drint.io/driglass/mcp"
+    }
+  }
+}
